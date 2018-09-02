@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: What is time?
-email: whatistime2018@example.com
+email: whatistime2018@gmail.com
 description: I seek to uncover the ontology of time. 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
