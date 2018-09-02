@@ -19,7 +19,7 @@ description: I seek to uncover the ontology of time. I seek to derrive time, not
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://whatisti.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SeekerTime
+twitter_username: seeker_time
 github_username:  what-is-time
 
 # Build settings
