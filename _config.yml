@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: What is time?
 email: whatistime2018@gmail.com
-description: I seek to uncover the ontology of time. I seek to derrive time, not define it. I seek to escape relativism!
+description: I seek to uncover the ontology of time. I seek to derive time, not define it. I seek to escape relativism!
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://whatisti.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: seeker_time
+twitter_username: Seeker_of_Time
 github_username:  what-is-time
 
 # Build settings
