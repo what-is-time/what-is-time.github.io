@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: What is time?
 email: whatistime2018@gmail.com
-description: I seek to uncover the ontology of time. 
+description: I seek to uncover the ontology of time. I seek to derrive it, not pre-suppose it. I seek to escape relativism. 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://whatisti.me" # the base hostname & protocol for your site, e.g. http://example.com
