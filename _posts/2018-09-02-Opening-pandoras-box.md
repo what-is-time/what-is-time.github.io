@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Opening Pandora's box."
 ---
 
@@ -22,9 +23,9 @@ Dear scienctific method: You are guilty of a performative contradiction. You are
 
 Time(0) is The Big Bang, so how do we define the word "future": I(time+N). N of WHAT ?!? What is time grounded in?
 
-The symbol-grounding problem breaks all of our languages and Mathematics is not immune to this bug! https://en.wikipedia.org/wiki/Symbol_grounding_problem
+The [symbol-grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) breaks all of our languages and Mathematics is not immune to this bug! 
 
-The SI unit of time defines the second in relation to the cesium atom.
+SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom.
 Did cesium atoms exist at t(1), or t(10) after the Big Bang? At the other end of the spectrum - does time continue to exist after the heat death of the universe? I don't like any of the answers modern physics is giving me! 
 
 And so I asked the question: What is time and what fundamental unit would I drrive it from? I don't know. Yet!
