@@ -6,9 +6,9 @@ title:  "Opening Pandora's box."
 
 There is a bug in the metaphysics of scientific reasoning and it's caused by the very nature of human experience.
 
-Ask a physicist if time is a scalar or a vector and they will tell you that it's both. Huh? From which reference frame? "Well it depends on how you define it."
+Ask a physicist if time is a scalar or a vector and they will tell you that [it's both](https://en.wikipedia.org/wiki/Problem_of_time). Huh? From which [reference frame](https://en.wikipedia.org/wiki/Frame_of_reference)? "Well it depends on how you define it."
 
-Science is not in the business of arbitrarily defining things.
+Stop right there! Science is not in the business of arbitrarily defining things.
 Science is in the business of quantifying things in respect to other things, so what is time quantified in respect to?
 
 A different starting assumption on the meaning of a symbol is by definition a different reference frame - a different perspective. And yet science prides itself on the notion of "objectivity". That things are true irrespective of whether we believe them or not. The universe is the way it is - not the way we want it to be. It owes us no explanation!
