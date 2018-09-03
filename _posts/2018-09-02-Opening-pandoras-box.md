@@ -19,13 +19,16 @@ OK. Can you present me with a convincing argument as to why I should accept the 
 
 Science makes accurate predictions. And the momment I uttered this phrase my brain mis-fired.
 
-Dear scienctific method: You are guilty of a performative contradiction. You are comitted to a definition of time by the very meaning of the English word "prediction"! Given a deterministic information source I (subject/experiment) a prediction is a correct guess of a FUTURE observation/measurement of I.
+Dear scienctific method: You are guilty of a [performative contradiction](https://en.wikipedia.org/wiki/Performative_contradiction). You are comitted to a definition of time by the very meaning of the English word "prediction"! Given a deterministic information source I (subject/experiment) a prediction is a correct guess of a FUTURE observation/measurement of I.
 
 Time(0) is The Big Bang, so how do we define the word "future": I(time+N). N of WHAT ?!? What is time grounded in?
 
 The [symbol-grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) breaks all of our languages and Mathematics is not immune to this bug! 
 
 SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom.
-Did cesium atoms exist at t(1), or t(10) after the Big Bang? At the other end of the spectrum - does time continue to exist after the heat death of the universe? I don't like any of the answers modern physics is giving me! 
+Did cesium atoms exist at t(1), or t(10) after the Big Bang? At the other end of the spectrum - does time continue to exist after the heat death of the universe and beyond maximum entropy?
+Is spacetime infinite even though quantum physicists [hate infinities](https://en.wikipedia.org/wiki/Renormalization)? 
+
+I don't like any of the answers modern physics is giving me! 
 
 And so I asked the question: What is time and what fundamental unit would I drrive it from? I don't know. Yet!
