@@ -23,7 +23,7 @@ Dear scienctific method: You are guilty of a [performative contradiction](https:
 
 Time(0) is The Big Bang, so how do we define the word "future": I(time+N). N of what ? What is time grounded in?
 
-SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom. This conception violates the [first law of thermodynamics](https://en.wikipedia.org/wiki/First_law_of_thermodynamics) at time(0)! You can't create matter/energy out of nothing! You can't define time in terms of something that doesn't exist!
+SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom. This conception violates the [first law of thermodynamics](https://en.wikipedia.org/wiki/First_law_of_thermodynamics) at time(0)! You can't create matter/energy out of nothing! You can't define time in terms of something that doesn't exist! We have defined time in terms of mass - this is a [circular dependency](https://en.wikipedia.org/wiki/Circular_dependency)!
 
 The [symbol-grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) breaks all of our languages and Mathematics is not immune to this bug! 
 
