@@ -15,7 +15,7 @@ A different starting assumption on the meaning of a symbol is by definition a di
 
 Scientists always leave out the fine print. Things are true only **IF** you accept and **interpret** results against the pre-supposed axioms. The [seven base SI units](https://en.wikipedia.org/wiki/SI_base_unit). 
 
-OK. Can you present me with a convincing argument as to why I should accept the SI units without appealing to pragmatism? As Dawkins said "Science works. Bitches". I don't dispute that. I am simply wondering if it can work even better if we were to align our units to the ontology of the universe. Also, what do you mean by "works"? 
+OK. Can you present me with a convincing argument as to why I should accept the SI units without appealing to pragmatism or common sense? As Dawkins said "Science works. Bitches". I don't dispute that. I am simply wondering if it can work even better if we were to align our units to the ontology of the universe. Also, what do you mean by "works"? 
 
 Science makes accurate predictions, you say? Which conception/definition of time are you using to parse the word "prediction"?
 
