@@ -39,4 +39,4 @@ My instincts (biases?) lead me towards [Shannon entropy](https://en.wikipedia.or
 
 I am skeptical of [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula) and [Boltzmann](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) entropy because it pre-supposes an 'arrow' of time. Maybe assuming that time has an arrow/direction is a mistake? Perhaps we learned nothing from the blunder that was geocentrism?
 
-Given the non-zero probability of a [sunk costs fallacy](https://en.wikipedia.org/wiki/Sunk_cost). I am looking for a first principles approach. Tabula rasa. 
+Having spoken to a number of physicists I am also skeptical of their abbility to navigate the[sunk costs fallacy](https://en.wikipedia.org/wiki/Sunk_cost). I am looking for a first principles approach. Tabula rasa. 
