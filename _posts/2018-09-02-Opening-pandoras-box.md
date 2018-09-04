@@ -31,8 +31,8 @@ Is spacetime infinite even though quantum physicists [hate infinities](https://e
 
 I don't like any of the answers modern physics is giving me! 
 
-And so I asked the question: What is time and what fundamental unit would I drrive it from? I don't know. Yet! 
+And so I asked the question: What is time and what fundamental unit would I drrive it from? I don't know yet. 
 
 My instincts (biases?) lead me towards [Shannon entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) only because I grok it, but maybe the right answer hides in [Von Neumann](https://en.wikipedia.org/wiki/Von_Neumann_entropy) or [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula) entropy.
 
-I am less interested in [Boltzmann entropy](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) because it pre-supposes an 'arrow' of time. I am looking for a Tabula rasa approach/first principles approach.
+I am less interested in [Boltzmann entropy](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) because it pre-supposes an 'arrow' of time. I am looking for a Tabula rasa/first principles approach.
