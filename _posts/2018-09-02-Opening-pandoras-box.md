@@ -38,6 +38,6 @@ And so I asked the question: What is time and what fundamental unit would I derr
 My instincts (biases?) lead me towards [Shannon entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) only because I grok it, but maybe the right answer hides in [Von Neumann entropy](https://en.wikipedia.org/wiki/Von_Neumann_entropy).
 
 
-I am skeptical of [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)) and [Boltzmann](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) entropy because it pre-supposes an 'arrow' of time. 
+I am skeptical of [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula) and [Boltzmann](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) entropy because it pre-supposes an 'arrow' of time. 
 
-I am looking for a first principles approach. Tabula rasa. Maybe assuming that time has an arrow/direction is a mistake?
+I am looking for a first principles approach. Tabula rasa. Maybe assuming that time has an arrow/direction is a mistake? Perhaps we learned nothing from geocentrism?
