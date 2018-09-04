@@ -4,7 +4,7 @@ comments: true
 title:  "Opening Pandora's box."
 ---
 
-There is a bug in the metaphysics of scientific reasoning and it's caused by the very nature of human experience.
+There is a bug in the metaphysics of scientific reasoning and it's caused by the very nature of human experience. The arrow of time.
 
 Ask a physicist if time is a scalar or a vector and they will tell you that [it's both](https://en.wikipedia.org/wiki/Problem_of_time). Huh? From which [reference frame](https://en.wikipedia.org/wiki/Frame_of_reference)? "Well it depends on how you define it."
 
