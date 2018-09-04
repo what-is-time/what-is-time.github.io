@@ -11,7 +11,7 @@ Ask a physicist if time is a scalar or a vector and they will tell you that [it'
 Stop right there! Science is not in the business of arbitrarily defining things.
 Science is in the business of quantifying things in respect to other things, so what is time quantified in respect to?
 
-A different starting assumption on the meaning of a symbol is by definition a different reference frame - a different perspective. And yet science prides itself on the notion of "objectivity". That things are true irrespective of whether we believe them or not. The universe is the way it is - not the way we want it to be. It owes us no explanation! So how can we have multiple "objective" perspectives?
+A different starting assumption on the meaning of a symbol is by definition a different reference frame - a different perspective. And yet science prides itself on the very notion of "objectivity". That things are true irrespective of whether we believe them or not. The universe is the way it is - not the way we want it to be. It owes us no explanation! So how is it possible that we can have multiple "objective" time ontologies?
 
 Scientists always leave out the fine print. Things are true only **IF** you accept and **interpret** results against the pre-supposed axioms. The [seven base SI units](https://en.wikipedia.org/wiki/SI_base_unit). 
 
