@@ -23,7 +23,7 @@ Dear scienctific method: You are guilty of a [performative contradiction](https:
 
 Time(0) is The Big Bang, so how do we define the word "future": I(time+N). N of what ? What is time grounded in?
 
-SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom.
+SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom. This conception violates the [first law of thermodynamics](https://en.wikipedia.org/wiki/First_law_of_thermodynamics) at time(0)! You can't create matter/energy out of nothing! You can't define time in terms of something that doesn't exist!
 
 The [symbol-grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) breaks all of our languages and Mathematics is not immune to this bug! 
 
@@ -38,6 +38,6 @@ And so I asked the question: What is time and what fundamental unit would I derr
 My instincts (biases?) lead me towards [Shannon entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) only because I grok it, but maybe the right answer hides in [Von Neumann entropy](https://en.wikipedia.org/wiki/Von_Neumann_entropy).
 
 
-I am skeptical of [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula) and [Boltzmann](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) entropy because it pre-supposes an 'arrow' of time. 
+I am skeptical of [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula) and [Boltzmann](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) entropy because it pre-supposes an 'arrow' of time.
 
 I am looking for a first principles approach. Tabula rasa. Maybe assuming that time has an arrow/direction is a mistake? Perhaps we learned nothing from geocentrism?
