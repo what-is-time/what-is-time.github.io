@@ -17,7 +17,7 @@ Scientists always leave out the fine print. Things are true only **IF** you acce
 
 OK. Can you present me with a convincing argument as to why I should accept the SI units without appealing to pragmatism? As Dawkins said "Science works. Bitches". I don't dispute that. I am simply wondering if it can work even better if we were to align our units to the ontology of the universe. Also, what do you mean by "works"? 
 
-Science makes accurate predictions. Which conception/definition of time should I be using to parse the word "prediction"?
+Science makes accurate predictions, you say? Which conception/definition of time are you using to parse the word "prediction"?
 
 Dear scienctific method: You are guilty of a [performative contradiction](https://en.wikipedia.org/wiki/Performative_contradiction). You are comitted to a definition of time by the very meaning of the English word "prediction"! Given a deterministic information source I (subject/experiment) a prediction is a correct guess of a FUTURE observation/measurement of I.
 
