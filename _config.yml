@@ -28,8 +28,8 @@ theme: minima
 plugins:
   - jekyll-analytics
 
-disquss:
-  shortname: what-is-time
+disqus:
+  shortname: whatisti-me
 
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
