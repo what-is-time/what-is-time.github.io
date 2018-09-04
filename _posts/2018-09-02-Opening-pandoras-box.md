@@ -15,17 +15,19 @@ A different starting assumption on the meaning of a symbol is by definition a di
 
 Scientists always leave out the fine print. Things are true but only if you accept and **interpret** results against the pre-supposed axioms. The [seven base SI units](https://en.wikipedia.org/wiki/SI_base_unit). 
 
-OK. Can you present me with a convincing argument as to why I should accept the SI units without appealing to pragmatism? As Dawkins said "Science works. Bitches". I don't dispute that science works. I am simply wondering if we can make it work even better if we were to align our units to the ontology of the universe. Also, what do you mean by "works"? 
+OK. Can you present me with a convincing argument as to why I should accept the SI units without appealing to pragmatism? As Dawkins said "Science works. Bitches". I don't dispute that. I am simply wondering if it can work even better if we were to align our units to the ontology of the universe. Also, what do you mean by "works"? 
 
-Science makes accurate predictions. And the momment I uttered this phrase my brain mis-fired.
+Science makes accurate predictions. Which conception/definition of time should I be using to parse the word "prediction"?
 
 Dear scienctific method: You are guilty of a [performative contradiction](https://en.wikipedia.org/wiki/Performative_contradiction). You are comitted to a definition of time by the very meaning of the English word "prediction"! Given a deterministic information source I (subject/experiment) a prediction is a correct guess of a FUTURE observation/measurement of I.
 
-Time(0) is The Big Bang, so how do we define the word "future": I(time+N). N of WHAT ?!? What is time grounded in?
+Time(0) is The Big Bang, so how do we define the word "future": I(time+N). N of what ? What is time grounded in?
+
+SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom.
 
 The [symbol-grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem) breaks all of our languages and Mathematics is not immune to this bug! 
 
-SI [defines the second](https://en.wikipedia.org/wiki/SI_base_unit) in relation to the cesium atom.
+
 Did cesium atoms exist at t(1), or t(10) after the Big Bang? At the other end of the spectrum - does time continue to exist after the heat death of the universe and beyond maximum entropy?
 Is spacetime infinite even though quantum physicists [hate infinities](https://en.wikipedia.org/wiki/Renormalization)? 
 
