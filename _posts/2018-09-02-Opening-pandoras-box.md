@@ -13,7 +13,7 @@ Science is in the business of quantifying things in respect to other things, so 
 
 A different starting assumption on the meaning of a symbol is by definition a different reference frame - a different perspective. And yet science prides itself on the notion of "objectivity". That things are true irrespective of whether we believe them or not. The universe is the way it is - not the way we want it to be. It owes us no explanation!
 
-Scientists always leave out the fine print. Things are true IF you accept and **interpret** results agaist some fundamental axioms. The [seven base SI units](https://en.wikipedia.org/wiki/SI_base_unit). 
+Scientists always leave out the fine print. Things are true IF you accept and **interpret** results against some fundamental axioms. The [seven base SI units](https://en.wikipedia.org/wiki/SI_base_unit). 
 
 OK. Can you present me with a convincing argument as to why I should accept the SI units without appealing to pragmatism? As Dawkins said "Science works. Bitches". I don't dispute that science works. I am simply wondering if we can make it work even better if we were to align our units to the ontology of the universe. Also, what do you mean by "works"? 
 
@@ -31,4 +31,6 @@ Is spacetime infinite even though quantum physicists [hate infinities](https://e
 
 I don't like any of the answers modern physics is giving me! 
 
-And so I asked the question: What is time and what fundamental unit would I drrive it from? I don't know. Yet!
+And so I asked the question: What is time and what fundamental unit would I drrive it from? I don't know. Yet! 
+
+My instincts (biases?) lead me towards [Shannon entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)).
