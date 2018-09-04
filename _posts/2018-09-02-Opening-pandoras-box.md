@@ -40,4 +40,4 @@ My instincts (biases?) lead me towards [Shannon entropy](https://en.wikipedia.or
 
 I am skeptical of [Gibbs](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula) and [Boltzmann](https://en.wikipedia.org/wiki/Entropy_(arrow_of_time)) entropy because it pre-supposes an 'arrow' of time.
 
-I am looking for a first principles approach. Tabula rasa. Maybe assuming that time has an arrow/direction is a mistake? Perhaps we learned nothing from geocentrism?
+I am looking for a first principles approach. Tabula rasa. Maybe assuming that time has an arrow/direction is a mistake? Perhaps we learned nothing from the blunder that was geocentrism?
