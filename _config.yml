@@ -21,17 +21,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://whatisti.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Seeker_of_Time
 github_username:  what-is-time
-
+google_analytics: UA-125057367-1
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-analytics
 
 disqus:
   shortname: whatisti-me
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-125057367-1          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
